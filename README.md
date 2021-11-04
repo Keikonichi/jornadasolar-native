@@ -19,7 +19,7 @@ Instale o expo-cli
 npm install -g expo-cli
 ```
 
-Clone o repositório e instale as dependencias
+Clone o repositório e instale as dependências
 
 ```shell
 git clone https://github.com/grupotesseract/jornadasolar-native.git
